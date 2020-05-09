@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+import './styles/index.less'
 
 Vue.config.productionTip = false
 // 创建vue实例 将router，store配值到根实例

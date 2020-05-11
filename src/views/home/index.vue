@@ -1,21 +1,29 @@
 <template>
-  <div class="login-container">主页页面</div>
+  <div class="home-container">
+    首页
+  </div>
 </template>
 
 <script>
 export default {
   name: 'HomeIndex',
-  components: {},
-  props: {},
   data () {
-    return {}
+    return {
+
+    }
   },
-  computed: {},
-  watch: {},
-  created () {},
-  mounted () {},
-  methods: {}
+  created () {
+
+  },
+  mounted () {
+
+  },
+  methods: {
+
+  }
 }
 </script>
 
-<style scoped lang="less"></style>
+<style scoped lang="less">
+
+</style>
